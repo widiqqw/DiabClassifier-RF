@@ -1,2 +1,2 @@
 # DiabClassifier-RF
-Machine Learning Model to Diagnose Diabetes Disease: Random Forest Classifier Approach
+Machine Learning Model to Predict Diabetes Disease: Random Forest Classifier Approach
