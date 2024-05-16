@@ -1,0 +1,119 @@
+"DIABETES
+Apakah Anda memiliki Diabetes atau Tidak?
+[ 0 = Tidak Memiliki Diabetes | 1 = Diabetes ]","UMUR
+Terdapat total 13 level Golongan kategori usia, Anda termasuk Golongan?
+• Golongan 1 : 18-24 tahun
+• Golongan 2 : 25-29  tahun
+• Golongan 3 : 30-34  tahun
+• Golongan 4 : 35-39  tahun
+• Golongan 5 : 40-44  tahun
+• Golongan 6 : 45-49  tahun
+• Golongan 7 : 50-54  tahun
+• Golongan 8 : 55-59  tahun
+• Golongan 9 : 60-64  tahun
+• Golongan 10: 65-69  tahun
+• Golongan 11: 70-74  tahun
+• Golongan 12: 75-79  tahun
+• Golongan 13: 80≥  tahun","JENIS KELAMIN
+Apa Jenis Kelamin anda?
+[ 0 = Laki - Laki | 1 =  Perempuan ]","SMOKER
+Status merokok Anda. Pernahkah Anda merokok setidaknya 100 batang rokok sepanjang hidup Anda? (Catatan: 5 bungkus = 100 batang rokok)
+[ 0 =  Tidak   | 1 =   Iya ]","KESULITAN BERJALAN
+Apakah individu memiliki kesulitan serius dalam berjalan atau naik tangga?
+[ 0 =  Tidak   | 1 =   Iya ]","TEKANAN DARAH
+Status tekanan darah tinggi Anda?
+[ 0 = Tidak Memiliki Riwayat Darah Tinggi | 1 = Tekanan Darah Tinggi ]","CHOLESTEROL
+Status Kolesterol Individu
+[ 0 = Kolesterol Tidak Tinggi | 1 = Kolesterol Tinggi ]","BERAT BADAN
+Berapa berat badan (BB) anda?","TINGGI BADAN
+Berapa tinggi badan (TB) anda?","KESEHATAN FISIK 
+Berapa hari selama 30 hari terakhir Anda mengalami masalah kesehatan fisik, termasuk penyakit fisik dan cedera?
+[ Contoh : Selama sebulan, total tidak enak badan 3 hari, maka tulis '3'. Apabila merasa sehat saja, maka tulis '0' ]","KESEHATAN UMUM
+Status kesehatan umum yang dilaporkan. Menurut Anda, secara umum kesehatan Anda (Skala 1-5) ?
+• 1 = Sangat Baik
+• 2 = Baik Sekali
+• 3 = Baik
+• 4 = Kurang Baik
+• 5 = Sangat Buruk"
+0,1,1,1,0,0,0,60.0,160,2,2
+0,5,1,0,0,0,0,72.0,158,0,3
+0,6,1,0,0,0,0,75.0,158,0,1
+0,5,1,0,0,0,0,80.0,163,0,3
+0,4,1,0,0,0,0,68.0,158,0,2
+0,6,1,0,0,0,0,50.0,145,0,3
+0,5,1,0,0,0,0,51.0,155,0,1
+0,6,1,0,0,0,0,63.0,155,0,2
+0,1,0,0,0,0,0,70.0,175,0,2
+0,1,1,0,0,1,0,57.0,155,4,3
+0,1,1,1,0,0,0,55.0,162,2,2
+0,1,1,0,0,0,1,60.0,162,1,2
+0,1,1,0,0,1,0,50.0,164,1,2
+0,5,0,1,0,1,1,90.0,170,4,3
+1,6,1,0,1,1,0,63.0,162,5,4
+1,6,1,0,0,1,1,58.0,163,3,3
+1,7,0,1,0,1,1,75.0,164,3,3
+1,7,0,1,1,1,1,87.0,167,1,3
+1,7,0,1,1,1,0,98.0,156,2,3
+1,7,0,0,1,1,1,82.0,177,2,3
+1,5,0,0,0,1,1,70.0,177,2,3
+1,5,0,1,0,0,1,99.0,126,1,3
+1,4,0,0,1,1,1,79.0,153,1,3
+1,11,0,1,0,0,0,91.0,150,2,3
+1,10,0,0,0,1,1,76.0,168,5,4
+1,6,0,1,0,1,1,85.0,170,2,4
+1,5,1,0,1,1,0,49.0,158,3,4
+1,6,0,1,0,0,1,72.0,170,0,3
+0,2,0,0,0,0,0,67.0,173,0,2
+1,11,0,0,1,1,0,90.0,160,3,4
+0,9,1,0,0,1,0,89.0,164,0,2
+1,6,1,1,0,1,0,53.0,157,15,4
+1,11,0,1,1,1,1,167.0,120,14,3
+1,9,0,1,1,1,1,154.0,76,17,4
+0,7,0,1,0,0,0,83.0,172,0,2
+0,8,1,0,0,1,0,78.0,167,0,2
+1,8,1,0,0,0,1,67.4,158,26,5
+0,10,1,1,0,0,0,85.0,180,0,3
+1,10,1,0,0,1,0,100.0,165,0,3
+1,8,1,0,1,1,1,100.0,169,25,3
+0,8,1,0,0,0,0,85.0,169,0,2
+0,8,1,1,1,1,1,61.0,150,0,2
+1,10,0,0,0,1,0,90.0,175,14,4
+1,9,0,1,1,1,0,106.0,168,30,3
+1,10,0,1,1,1,0,76.0,168,0,3
+0,9,0,0,0,0,0,64.0,168,0,1
+0,4,1,0,0,0,0,61.0,150,0,3
+1,10,1,0,0,1,1,76.0,155,0,3
+0,3,1,0,0,0,0,50.0,154,0,2
+1,11,0,1,1,1,1,88.0,150,0,3
+0,7,0,1,0,0,0,76.0,168,0,2
+0,4,0,0,0,0,0,55.0,165,0,2
+0,5,1,0,0,0,0,74.0,155,0,2
+0,7,1,0,0,0,0,78.0,185,0,2
+0,3,0,0,0,0,0,75.0,170,0,1
+0,3,0,0,0,0,0,55.0,160,1,2
+0,2,1,1,0,0,1,88.0,176,0,2
+0,4,0,0,0,0,0,170.0,98,0,2
+0,1,0,1,0,0,1,81.0,173,0,3
+0,6,0,0,0,0,0,65.0,160,1,1
+0,5,1,0,0,0,0,77.0,177,0,2
+0,4,0,1,0,0,0,61.0,165,3,1
+0,2,0,1,0,0,0,53.0,155,2,2
+1,8,1,0,0,0,0,70.0,160,1,4
+0,2,0,1,0,0,0,69.0,160,0,1
+0,2,1,0,0,0,0,60.0,155,5,1
+0,10,0,0,0,0,1,66.0,160,1,2
+0,4,1,0,0,0,1,94.0,165,5,2
+0,10,1,1,0,1,0,56.0,155,0,3
+0,8,0,1,0,1,0,163.0,60,4,2
+0,4,0,0,0,0,0,80.0,166,2,3
+0,2,1,0,0,0,0,70.0,163,2,1
+0,3,0,0,0,0,1,80.0,169,6,2
+0,1,0,0,0,0,0,50.0,165,0,2
+1,5,1,0,0,1,1,93.0,177,1,3
+1,5,1,0,0,1,0,115.0,167,30,4
+0,1,0,0,0,0,0,73.0,176,0,3
+0,1,0,1,0,0,0,58.0,168,0,3
+1,4,0,1,1,0,0,121.0,169,30,4
+1,5,1,1,0,0,1,73.0,155,3,4
+1,4,0,1,0,0,1,98.0,168,1,4
+1,4,0,0,0,0,0,99.0,155,0,4
